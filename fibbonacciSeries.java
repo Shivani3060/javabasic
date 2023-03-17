@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 import javax.naming.spi.ResolveResult;
 
-public class fab {
+public class fibbonacciSeries{
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("number of elements");
