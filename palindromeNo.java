@@ -7,6 +7,7 @@ public class palindromeNo {
     Scanner sc= new Scanner(System.in);
     System.out.println("enter the num");
     int num= sc.nextInt();
+    //logic
     int temp, rem,sum=0;
     temp=num;
 for( ;num!=0;num= num/10) {
